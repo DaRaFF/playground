@@ -1,0 +1,16 @@
+{
+  "name": "non-uniform",
+  "version": "1.0.0",
+  "description": "Layered architecture with data passing with a non-uniform approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "knex": "^0.12.7",
+    "lodash": "^4.10.0",
+    "sqlite3": "^3.1.8"
+  },
+  "author": "",
+  "license": "ISC"
+}
