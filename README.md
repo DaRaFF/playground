@@ -50,3 +50,10 @@ node index.js # run the example code
 node reset-db.js # reset the db
 ```
 
+### Repository Pattern
+
+Mission: Understand the repository pattern better and especially what is are the differences to the table data gateway pattern.
+
+- https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006#.k88e8lfgg
+- http://blog.gauffin.org/2013/01/data-layer-the-right-way/
+- http://blog.gauffin.org/2013/01/repository-pattern-done-right/
